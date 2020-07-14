@@ -1,0 +1,8 @@
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\bin\Debug\DALXml.dll.config
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\bin\Debug\DALXml.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\bin\Debug\DALXml.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\bin\Debug\Entidades.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\bin\Debug\Entidades.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\obj\Debug\DALXml.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\obj\Debug\DALXml.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\DALXml\obj\Debug\DALXml.pdb

@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\BLL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\BLL.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\DALXml.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\Entidades.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\DALXml.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\bin\Debug\Entidades.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\obj\Debug\BLL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\PruebaNovoFarma\BLL\obj\Debug\BLL.pdb
